@@ -1,7 +1,4 @@
 hello-world
 ===========
 
-
-
-
-I hax your website
+Just another Hello-World Repo
